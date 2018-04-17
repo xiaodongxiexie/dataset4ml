@@ -1,0 +1,11 @@
+actual,day,forecast,id,normal,record
+"{'high': 48, 'low': 36}",M,,0,"{'high': 50, 'low': 38}","{'high': 62, 'low': 15}"
+"{'high': 50, 'low': 40}",T,,1,"{'high': 50, 'low': 38}","{'high': 62, 'low': 23}"
+"{'high': 55, 'low': 36}",W,,2,"{'high': 50, 'low': 38}","{'high': 61, 'low': 20}"
+"{'high': 51, 'low': 33}",T,,3,"{'high': 50, 'low': 38}","{'high': 67, 'low': 21}"
+"{'high': 50, 'low': 30}",F,,4,"{'high': 50, 'low': 38}","{'high': 61, 'low': 23}"
+,S,"{'high': {'high': 53, 'low': 49}, 'low': {'high': 40, 'low': 35}}",5,"{'high': 50, 'low': 38}","{'high': 67, 'low': 20}"
+,S,"{'high': {'high': 55, 'low': 49}, 'low': {'high': 42, 'low': 37}}",6,"{'high': 50, 'low': 39}","{'high': 63, 'low': 23}"
+,M,"{'high': {'high': 53, 'low': 49}, 'low': {'high': 43, 'low': 40}}",7,"{'high': 51, 'low': 39}","{'high': 61, 'low': 26}"
+,T,"{'high': {'high': 52, 'low': 46}, 'low': {'high': 44, 'low': 40}}",8,"{'high': 51, 'low': 39}","{'high': 61, 'low': 24}"
+,W,"{'high': {'high': 53, 'low': 46}, 'low': {'high': 43, 'low': 38}}",9,"{'high': 51, 'low': 39}","{'high': 63, 'low': 20}"
