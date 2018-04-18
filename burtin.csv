@@ -1,0 +1,17 @@
+Bacteria,Genus,Gram_Staining,Neomycin,Penicilin,Streptomycin
+Aerobacter aerogenes,other,negative,1.6,870.0,1.0
+Brucella abortus,other,negative,0.02,1.0,2.0
+Brucella anthracis,other,positive,0.007,0.001,0.01
+Diplococcus pneumoniae,other,positive,10.0,0.005,11.0
+Escherichia coli,other,negative,0.1,100.0,0.4
+Klebsiella pneumoniae,other,negative,1.0,850.0,1.2
+Mycobacterium tuberculosis,other,negative,2.0,800.0,5.0
+Proteus vulgaris,other,negative,0.1,3.0,0.1
+Pseudomonas aeruginosa,other,negative,0.4,850.0,2.0
+Salmonella (Eberthella) typhosa,Salmonella,negative,0.008,1.0,0.4
+Salmonella schottmuelleri,Salmonella,negative,0.09,10.0,0.8
+Staphylococcus albus,Staphylococcus,positive,0.001,0.007,0.1
+Staphylococcus aureus,Staphylococcus,positive,0.001,0.03,0.03
+Streptococcus fecalis,Streptococcus,positive,0.1,1.0,1.0
+Streptococcus hemolyticus,Streptococcus,positive,10.0,0.001,14.0
+Streptococcus viridans,Streptococcus,positive,40.0,0.005,10.0
